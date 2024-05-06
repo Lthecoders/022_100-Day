@@ -1,0 +1,23 @@
+user              computer              message 
+100000              1000000              very much high
+
+200000              900000              very high
+
+300000              800000                high
+
+400000              700000                very much medium
+
+500000              600000                very medium
+
+600000              500000                medium
+
+700000              400000                very much MEDIUM
+
+800000              300000                HIGH
+
+900000              200000                VERY HIGH
+
+1000000              100000                very much HIGH
+
+
+-1    -6
